@@ -19,15 +19,15 @@ File Attachments:
       
       
 
-    2 test pcap files (small.pcap , http.pcap )
+    2 test pcap files (small.pcap , medium2.pcap )
       
       
 
-    2 example outputs on the pcap files. Your program should match the counts in these files. (small_pcap_out.txt , http_pcap_out.txt)
+    2 example outputs on the pcap files. Your program should match the counts in these files. (small_pcap_out.txt , medium2_pcap_out.txt)
       
 
 Use the following commands to run and test the code. (Put the pcap files in the compiled folder)
 
 java -jar uber-pcap-1.1.0.jar small.pcap
 
-java -jar uber-pcap-1.1.0.jar http.pcap
+java -jar uber-pcap-1.1.0.jar medium2.pcap
