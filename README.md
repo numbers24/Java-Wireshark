@@ -23,7 +23,7 @@ File Attachments:
       
       
 
-    2 example outputs on the pcap files. Your program should match the counts in these files. (small_pcap_out.txt , medium2_pcap_out.txt)
+    2 example outputs on the pcap files. Your program should match the counts in these files. (small_pcap.txt , medium2_pcap.txt)
       
 
 Use the following commands to run and test the code. (Put the pcap files in the compiled folder)
